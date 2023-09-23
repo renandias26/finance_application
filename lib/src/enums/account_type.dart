@@ -1,0 +1,1 @@
+enum AccountType { poupanca, salario, corrente }
